@@ -1,0 +1,47 @@
+title: "Wakhid Blog's"
+email: ask@wakhid.com
+timezone: Asia/Jakarta
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/wakhid-logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  wakhid:
+    name: Wakhid
+    display_name: Wakhid
+    avatar: 'assets/images/wakhid.png'
+    email: ask@wakhid.com
+    web: https://www.wakhid.com
+    twitter: https://twitter.com/wakhidnusa
+    description: "Author"
+# Social
+social:
+  instagram: https://www.instagram.com/nusalabs
+  facebook: https://www.facebook.com/php.conf
+  twitter: https://www.linkedin.com/in/wakhidnusa/
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

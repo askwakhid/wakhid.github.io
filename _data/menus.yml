@@ -1,0 +1,33 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: Contact
+  url: "contact/"
+
+- title: About
+  url: "about/"
+  class: "ml-2 btn btn-dark text-white px-3"
+
+# - title: Dukung Saya 
+#   url: https://trakteer.id/wakhid
+#   class: "ml-2 btn btn-dark text-white px-3"
+#   external: true
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"
+
+# - title: Download
+#   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+#   external: true
