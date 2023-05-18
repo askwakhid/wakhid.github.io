@@ -2,7 +2,7 @@
 title: Colima, Pengganti Docker Desktop yang Efisien untuk Pengguna Mac
 author: wakhid
 date: 2023-05-17 12:32:00 -0500
-categories: [Blogging, Tutorial]
+categories: [Blogging, Docker]
 tags: [Docker, macOS]
 ---
 
